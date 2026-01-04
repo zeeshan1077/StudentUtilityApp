@@ -1,12 +1,12 @@
 # Student Utility Android Application
 
-## Project Overview
+## 📱 Project Overview
 
 Student Utility Android Application is a simple and user-friendly mobile application developed for students. The app provides basic functionalities such as user login, welcome/home screen, and viewing online data. This project is developed as a **semester project** for the **Mobile Application Development (MAD)** subject.
 
 ---
 
-##  Project Objectives
+## 🎯 Project Objectives
 
 * To implement a secure login system for users
 * To navigate users to a home screen after successful login
@@ -16,7 +16,7 @@ Student Utility Android Application is a simple and user-friendly mobile applica
 
 ---
 
-##  Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Android Studio
 * Java
@@ -45,9 +45,42 @@ Student Utility Android Application is a simple and user-friendly mobile applica
 * Fetches and displays data from an online source
 * Uses internet permission
 * Demonstrates API / online data handling
+
 ---
 
-##  Author
+## 🔄 Application Flow
+
+1. Application Launch
+2. Login Screen
+3. Home / Welcome Screen
+4. View Data Online Screen
+
+---
+
+##  Screenshots
+
+*Login Screen
+![login pic](https://github.com/user-attachments/assets/ecdd7816-5759-4382-a34d-86f1bb3d3f07)
+
+* Home / Welcome Screen
+![welcome screen](https://github.com/user-attachments/assets/0b02f990-85aa-4027-9bdb-d0c275f6f402)
+
+ 
+* View Data Online Screen
+![view data](https://github.com/user-attachments/assets/35d34902-ad0e-440d-a72c-381536da49b5)
+
+---
+
+
+
+
+## 🔗 GitHub Repository
+
+(Add GitHub repository link here)
+
+---
+
+## 👤 Author
 
 **Zishi Aziz Khan**
 
