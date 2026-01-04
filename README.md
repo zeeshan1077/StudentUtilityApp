@@ -76,7 +76,7 @@ Student Utility Android Application is a simple and user-friendly mobile applica
 
 ## 🔗 GitHub Repository
 
-(Add GitHub repository link here)
+(https://github.com/zeeshan1077/StudentUtilityApp.git)
 
 ---
 
@@ -86,13 +86,13 @@ Student Utility Android Application is a simple and user-friendly mobile applica
 
 ---
 
-## 📘 Subject Information
+##  Subject Information
 
 * Subject: Mobile Application Development (MAD)
 * Semester Project
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project fulfills the basic requirements of an Android application by implementing authentication, navigation, and online data access. It is a complete, working, and tested application suitable for academic submission.
